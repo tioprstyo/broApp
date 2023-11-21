@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/tioprasetyo/tio/RoomMe/tio/broApp/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_logo_bro.png.flat",
+        "source": "/Users/tioprasetyo/tio/RoomMe/tio/broApp/android/app/src/main/res/mipmap-hdpi/logo_bro.png"
+    },
+    {
+        "merged": "/Users/tioprasetyo/tio/RoomMe/tio/broApp/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_logo_bro.png.flat",
+        "source": "/Users/tioprasetyo/tio/RoomMe/tio/broApp/android/app/src/main/res/mipmap-mdpi/logo_bro.png"
+    },
+    {
+        "merged": "/Users/tioprasetyo/tio/RoomMe/tio/broApp/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_logo_bro.png.flat",
+        "source": "/Users/tioprasetyo/tio/RoomMe/tio/broApp/android/app/src/main/res/mipmap-xhdpi/logo_bro.png"
+    },
+    {
+        "merged": "/Users/tioprasetyo/tio/RoomMe/tio/broApp/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_logo_bro.png.flat",
+        "source": "/Users/tioprasetyo/tio/RoomMe/tio/broApp/android/app/src/main/res/mipmap-xxxhdpi/logo_bro.png"
+    },
+    {
+        "merged": "/Users/tioprasetyo/tio/RoomMe/tio/broApp/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_logo_bro.png.flat",
+        "source": "/Users/tioprasetyo/tio/RoomMe/tio/broApp/android/app/src/main/res/mipmap-xxhdpi/logo_bro.png"
+    }
+]

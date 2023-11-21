@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/broApp.iml" filepath="$PROJECT_DIR$/.idea/modules/broApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1131912805/broApp.@react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-1131912805/broApp.@react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/179941523/broApp.@react-native-community_checkbox.iml" filepath="$PROJECT_DIR$/.idea/modules/179941523/broApp.@react-native-community_checkbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/broApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/broApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1131912805/broApp.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-1131912805/broApp.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/179941523/broApp.react-native-community_checkbox.iml" filepath="$PROJECT_DIR$/.idea/modules/179941523/broApp.react-native-community_checkbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1636805498/broApp.react-native-community_clipboard.iml" filepath="$PROJECT_DIR$/.idea/modules/-1636805498/broApp.react-native-community_clipboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/734918137/broApp.react-native-contacts.iml" filepath="$PROJECT_DIR$/.idea/modules/734918137/broApp.react-native-contacts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2077206241/broApp.react-native-device-info.iml" filepath="$PROJECT_DIR$/.idea/modules/-2077206241/broApp.react-native-device-info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/977205096/broApp.react-native-device-token.iml" filepath="$PROJECT_DIR$/.idea/modules/977205096/broApp.react-native-device-token.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-146367741/broApp.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/-146367741/broApp.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-342992026/broApp.react-native-firebase_messaging.iml" filepath="$PROJECT_DIR$/.idea/modules/-342992026/broApp.react-native-firebase_messaging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1121317856/broApp.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1121317856/broApp.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-501366734/broApp.react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/-501366734/broApp.react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/106436504/broApp.react-native-push-notification.iml" filepath="$PROJECT_DIR$/.idea/modules/106436504/broApp.react-native-push-notification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1358201348/broApp.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-1358201348/broApp.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1101700233/broApp.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/1101700233/broApp.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1010998303/broApp.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-1010998303/broApp.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1667483244/broApp.react-native-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/1667483244/broApp.react-native-splash-screen.iml" />
+    </modules>
+  </component>
+</project>

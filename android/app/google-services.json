@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "531733313993",
+    "project_id": "broappsdev",
+    "storage_bucket": "broappsdev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531733313993:android:c2f1a95553036fe6c05018",
+        "android_client_info": {
+          "package_name": "com.broapp.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531733313993-bgpua35diq4k4sc6g4jhmtisk7vfiagp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.broapp.user",
+            "certificate_hash": "efa55243ad97a9519b1dde677295f9beeeb40b82"
+          }
+        },
+        {
+          "client_id": "531733313993-cp3p5c5a3crn481rr1m2r00ro9cif6bu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.broapp.user",
+            "certificate_hash": "bad8ed6661c3aed9000af0e04bb4b42d97b584fb"
+          }
+        },
+        {
+          "client_id": "531733313993-abegsg4hld7slfqukkc15r6hc14rm9it.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyc1nXDu1Q2NCjc794TpK6PX8azUsMnZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531733313993-abegsg4hld7slfqukkc15r6hc14rm9it.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
